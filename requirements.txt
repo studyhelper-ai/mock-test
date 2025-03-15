@@ -1,7 +1,9 @@
 streamlit
 pytesseract
 pdf2image
-pillow
+Pillow
 ollama
 faiss-cpu
+numpy
 langchain
+langchain-community
