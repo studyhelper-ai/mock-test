@@ -1,7 +1,0 @@
-streamlit
-pytesseract
-pdf2image
-pillow
-ollama
-faiss-cpu
-langchain
